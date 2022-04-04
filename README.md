@@ -9,7 +9,7 @@ Just download files inside release/, and open "index.html".
 
 ## 示例 | demo
 
-![demo picture](.\demo-pic.png)
+![demo picture](./demo-pic.png)
 
 在线示例：[https://cdfls.net.cn/CopyTimestamp/index.html](https://cdfls.net.cn/CopyTimestamp/index.html)
 
