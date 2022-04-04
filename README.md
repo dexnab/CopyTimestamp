@@ -11,6 +11,6 @@ Just download files inside release/, and open "index.html".
 
 ![demo picture](./demo-pic.png)
 
-在线示例：[https://cdfls.net.cn/CopyTimestamp/index.html](https://cdfls.net.cn/CopyTimestamp/index.html)
+在线示例：[https://dexnab.top/CopyTimestamp/index.html](https://dexnab.top/CopyTimestamp/index.html)
 
-online demo: [https://cdfls.net.cn/CopyTimestamp/index.html](https://cdfls.net.cn/CopyTimestamp/index.html)
+online demo: [https://dexnab.top/CopyTimestamp/index.html](https://dexnab.top/CopyTimestamp/index.html)
